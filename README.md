@@ -1,7 +1,40 @@
-Hello, I'm Ryan, a driven graduate student currently pursuing my Master's in Artificial Intelligence at Northeastern University. Prior to this, I proudly earned my Bachelor of Science degree in Computer Science with first-class honors from Heriot-Watt University, where my passion for research led me to publish a conference paper for ICITA 2023, now available on Springer.
+# Hey, I'm Ryan 👋
 
-During my academic journey, I seized the opportunity to expand my horizons as a Data Science intern at a leading AI solutions company in the Middle East. This invaluable experience allowed me to apply theoretical knowledge to practical projects, honing my skills in real-world AI applications.
+ML Engineer building deployable AI systems. MS in Artificial Intelligence from Northeastern University, published researcher in Computer Vision ([Springer LNNS](https://doi.org/10.1007/978-981-99-8324-7_16)).
 
-I've further fortified my expertise through professional certifications, including the IBM AI Engineering and Applied AI Certificates from Coursera, complementing my academic achievements. Additionally, I've demonstrated proficiency in English with an IELTS score of 8.5.
+I care about building things that work in production, not just in notebooks.
 
-Eager to collaborate with like-minded professionals in artificial intelligence and machine learning, I'm committed to pushing the boundaries of AI innovation and making impactful contributions to the field. Let's connect and explore the possibilities together.
+---
+
+### What I'm Working On
+
+🔍 **[ComplianceScope](https://github.com/rydnj/ComplianceScope-AI-Financial-Compliance-Analyst)** — AI-powered SEC filing analyzer using RAG architecture. Ingests 10-K/10-Q filings, flags compliance risks across 7 categories with 85%+ precision, and generates executive risk reports. Built with FastAPI, LangChain, OpenAI, pgvector, and Streamlit. Deployed on AWS.
+
+📋 **[SyncBoard](https://github.com/rydnj/SyncBoard-Collaborative-Kanban-Board)** — Real-time collaborative kanban board with live presence and sub-50ms WebSocket synchronization. Built with SvelteKit, FastAPI, PostgreSQL, and WebSockets. Deployed on AWS with Docker.
+
+---
+
+### Tech I Work With
+
+**AI/ML:** Python, PyTorch, TensorFlow, LangChain, OpenAI, Hugging Face, Scikit-learn, RAG, NLP, Computer Vision
+
+**Backend:** FastAPI, Flask, PostgreSQL, pgvector, SQLAlchemy, Docker, AWS
+
+**Frontend:** SvelteKit, React, Streamlit
+
+**Data:** SQL, Pandas, NumPy, Jupyter
+
+---
+
+### Published Research
+
+**Deep Spatiotemporal Network-Based Indian Sign Language Recognition from Videos**
+Springer LNNS, Vol. 839, ICITA 2023 — [Read the paper](https://doi.org/10.1007/978-981-99-8324-7_16)
+
+Designed a hybrid deep learning pipeline achieving 97.9% accuracy on the INCLUDE-50 dataset, outperforming baselines by 3.4–23.7%.
+
+---
+
+### Get in Touch
+
+📧 ryandennyjohn@gmail.com · [LinkedIn](https://linkedin.com/in/ryan-denny-02)
