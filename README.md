@@ -21,6 +21,9 @@ I build AI systems that work in production, not just in notebooks.
 **[SyncBoard](https://github.com/rydnj/SyncBoard-Collaborative-Kanban-Board)** — Real-time collaborative kanban board with live presence and sub-50ms WebSocket sync. Multiple users, drag-and-drop cards, instant updates.
 `SvelteKit` `FastAPI` `PostgreSQL` `WebSockets` `Docker` `AWS`
 
+**[ChurnScope](https://github.com/rydnj/churnscope)** — End-to-end customer churn prediction and revenue analytics platform. RFM segmentation + K-Means clustering on 1M+ transactions, churn classification (AUC 0.92), and ARIMA demand forecasting (13.6% MAPE), served through an interactive analytics dashboard.
+`React` `TypeScript` `FastAPI` `PostgreSQL` `scikit-learn` `XGBoost` `Docker`
+
 ---
 
 ### 📄 Published Research
